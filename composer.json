@@ -1,0 +1,13 @@
+{
+    "require": {
+        "oasis/slimapp": "^2.4",
+        "oasis/doctrine-addon": "^2.0",
+        "oasis/dynamodb-odm": "^0.5.2"
+    },
+    "name": "vendor/doctrinecache",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Doctrinecache\\": "src/"
+        }
+    }
+}
